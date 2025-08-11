@@ -8,6 +8,10 @@ yarn-error.log
 /.ci/php-cs-fixer/vendor
 coverage.xml
 output.txt
+.db.env
+.env.testing
+.env.local
+docker-compose.yml
 
 # ignore generated files.
 public/build
